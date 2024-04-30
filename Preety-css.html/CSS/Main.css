@@ -1,0 +1,14 @@
+h1{
+    color: slateblue;
+    text-align: center;
+    background-color:black;
+   
+}
+small{
+    display:block;
+
+}
+h3{
+    display: inline;
+    font:50px;
+}
